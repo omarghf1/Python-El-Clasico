@@ -1,4 +1,4 @@
-# Python-El-Clasico
+# Python-El Clasico - Text Adventure Game
 
 Inspired by the clash of Spanish football giants, Barcelona F.C. vs. Real Madrid C.F., this game allows you to live the dream of participating in a match as a player yourself. The setting of the match is the 2019-2020 season for the Spanish League. In the game you can expect:
 
